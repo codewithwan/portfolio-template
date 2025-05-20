@@ -26,8 +26,7 @@ export function Hero() {
             UI/UX Designer
           </h2>
           <p className="text-black text-xl max-w-2xl mx-auto mb-10 font-medium">
-            I create user-centered designs that are both aesthetically pleasing and highly functional, helping brands
-            connect with their audience through intuitive digital interfaces.
+            nganu
           </p>
         </div>
 
